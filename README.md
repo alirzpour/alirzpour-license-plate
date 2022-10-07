@@ -1,4 +1,5 @@
 # license plate
 Iranian License Plate Detection And Recognition With YOLO
-#Recognition
-![Recognition](https://user-images.githubusercontent.com/115239569/194567993-fca86da3-f816-4149-8ac1-85337fccab54.jpg)
+#Detection
+![Detection](https://user-images.githubusercontent.com/115239569/194570072-6bf64f73-b84e-4e65-98c2-f0530e19b52b.jpg)
+

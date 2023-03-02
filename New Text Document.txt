@@ -1,0 +1,25 @@
+#detection license plate
+
+
+train: ../lisense_plate_dataset/images/train
+val:  ../lisense_plate_dataset/images/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['lisense_plate']
+
+
+--------------------------------------------------------------
+#recognition license plate
+
+
+train: ../plate-dataset-recognition/images/train
+val:  ../plate-dataset-recognition/images/val
+
+# number of classes
+nc: 37
+
+# class names
+names: ['0','1','2','3','4','5','6','7','8','9','alef','b','j','l','m','n','q','v','h','y','d','s','sad','malol','t','ta','ein','diplomat','siyasi','p','f','the','z','she','none','kaf','gaf']
